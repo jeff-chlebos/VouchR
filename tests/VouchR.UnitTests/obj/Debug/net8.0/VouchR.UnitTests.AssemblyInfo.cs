@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VouchR.UnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+818270c1b96f1d51710324759d22cc1f151e92d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bc26e60945882c391f799cde3de805d5f040cd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("VouchR.UnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VouchR.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
